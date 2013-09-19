@@ -5,7 +5,7 @@
   "main": "grunt.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jedrichards/grunt-rsync.git"
+    "url": "git://github.com/peterschuelke/rsyncwrapper.git"
   },
   "homepage": "https://github.com/jedrichards/grunt-rsync",
   "bugs": "https://github.com/jedrichards/grunt-rsync/issues",
@@ -13,7 +13,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "rsyncwrapper": "~0.0.18"
+    "rsyncwrapper": "git://github.com/peterschuelke/rsyncwrapper.git"
   },
   "peerDependencies": {
     "grunt": "~0.4.0"
